@@ -1,2 +1,2 @@
-# Roads-and-Cities-
-Java program which create roads to Cities 
+# Bonks-and-Zaps-Game
+Java program which create game about Bonks and Zaps
